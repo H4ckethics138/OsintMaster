@@ -1,49 +1,65 @@
 ---
-<h1 align="center">🛡️ TEAM HACKETHICS138 | OSINT-MASTER ULTIMATE PRO 🛡️</h1>
+<h1 align="center">🛡️ TEAM HACKETHICS138</h1>
+    <h2 align="center">OSINT-MASTER ULTIMATE PRO</h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00FF00&center=true&vCenter=true&lines=TEAM+HACKETHICS138+PRESENTS;OSINT+MASTER+ULTIMATE+PRO+V1.0;ADVANCED+DIGITAL+FORENSICS+TOOL;CYBERSECURITY+RESEARCH+PLATFORM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&duration=2800&color=00FF00&center=true&vCenter=true&width=600&lines=Advanced+OSINT+Tool" alt="Typing SVG" />
 </p>
 
 <div align="center">
-    <a href="https://www.instagram.com/hackethics138"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=purple" alt="Instagram"/></a>
-    <a href="https://youtube.com/@h4ckethics138"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=red" alt="YouTube"/></a>
-    <a href="https://t.me/Hack3thics138"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="Telegram"/></a>
-    <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" alt="Python"/>
+  <a href="https://www.instagram.com/hackethics138"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=purple" alt="Instagram"/></a>
+  <a href="https://youtube.com/@h4ckethics138"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=red" alt="YouTube"/></a>
+  <a href="https://t.me/Hack3thics138"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="Telegram"/></a>
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" alt="Python"/>
 </div>
 
 ---
 
-## 👥 **MEET TEAM HACKETHICS138**
+## 👥 **TEAM HACKETHICS138**
 
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&lines=🔍+Professional+Cybersecurity+Collective;🛡️+Ethical+Hacking+%26+Digital+Forensics;⚡+Open+Source+Intelligence+Specialists;🤝+Community+Driven+Security+Research" alt="Typing SVG"> 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Collective" alt="Team"/>
+</p>
 
-### 🎯 **WHO WE ARE**
-**Team Hackethics138** is a dedicated cybersecurity collective founded by passionate security researchers and ethical hackers. We specialize in developing advanced security tools, conducting vulnerability research, and promoting cybersecurity awareness through education and open-source contributions.
+### 🎯 **About Our Team**
+We are **Team Hackethics138** - a cybersecurity collective focused on ethical hacking, OSINT research, and tool development. Our mission is to create powerful security tools while promoting ethical practices in the cybersecurity community.
 
-### 🌟 **OUR CORE TEAM**
+### 👨‍💻 **Team Structure**
+- **Founder**: Vicky (Lead Developer)
+- **Security Researchers**: 4 members
+- **UI/UX Designers**: 2 members
+- **Documentation Team**: 2 members
+- **Testing Team**: 3 members
 
+---
+
+## 🛠️ **OSINT-MASTER TOOL**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2200&color=FF9900&center=true&vCenter=true&width=550&lines=Digital+Forensics+Suite" alt="Tool"/>
+</p>
+
+### 📦 **Tool Overview**
+**OSINT-MASTER ULTIMATE PRO** is our flagship tool for open-source intelligence gathering. Designed for ethical purposes, it helps security professionals collect and analyze publicly available information.
+
+### 🔧 **Main Features**
 ```yaml
-Leadership:
-  • Founder & Lead Developer: Vicky
-    - Role: Tool Architecture & Core Development
-    - Expertise: Python Automation, OSINT Research
-    - Contribution: Main Program Logic & UI Design
-  
-  • Research Head: Anonymous
-    - Role: Security Research & Methodology
-    - Expertise: Digital Forensics, Threat Analysis
-    - Contribution: Research Algorithms & Data Analysis
+Instagram Module:
+  • Profile analysis
+  • Follower analytics
+  • Metadata extraction
 
-  • Community Manager: Multiple Contributors
-    - Role: User Support & Documentation
-    - Expertise: Technical Writing, Community Building
-    - Contribution: Guides, Tutorials & Support System
+Phone Forensics:
+  • Carrier detection
+  • Geolocation tracing
+  • Number validation
 
-Development Team:
-  • Backend Developers: 3 Members
-  • Frontend & UI Design: 2 Members  
-  • Security Researchers: 4 Members
-  • Documentation Team: 2 Members
+Social Media OSINT:
+  • Username search
+  • Profile investigation
+  • Data correlation
+
+Export Options:
+  • TXT reports
+  • JSON data
+  • HTML visuals
