@@ -21,7 +21,7 @@
   <img src="https://github.com/H4ckethics138/OsintMaster/blob/main/Screenshot_2026-01-04-06-34-15-75_84d3000e3f4017145260f7618db1d683.jpg" alt="OSINT-Master Interface" width="700"/>
 </div>
 
-*Screenshot: Main control panel of OSINT-MASTER ULTIMATE PRO*
+Main control panel of OSINT-MASTER ULTIMATE PRO*
 
 ---
 
@@ -32,16 +32,8 @@
 ### 🔧 MAIN FEATURES
 - **Instagram Intelligence**: Profile analysis, follower analytics, metadata extraction
 - **Phone Forensics**: Carrier identification, number validation, geolocation tracing
-- **Social Media OSINT**: Multi-platform username search, profile investigation
-- **Data Export**: TXT, JSON, and HTML report generation
 - **User-Friendly Interface**: Pink-bordered menus, color-coded feedback
 
-### 🖥️ INTERFACE HIGHLIGHTS
-The tool uses a distinctive pink border design (as visible in the screenshot) with:
-- Clear menu options (1-5 selection)
-- Color-coded output for better readability
-- Progress indicators and status updates
-- Easy navigation between modules
 
 ---
 
