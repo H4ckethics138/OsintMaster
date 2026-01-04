@@ -1,4 +1,4 @@
-
+ji
 ---
 <h1 align="center">🛡️ OSINT-MASTER ULTIMATE PRO</h1>
 <h3 align="center">by Team Hackethics138</h3>
@@ -58,5 +58,5 @@ This tool is for **EDUCATIONAL PURPOSES ONLY**. Use only on accounts you own or 
 ```bash
 git clone https://github.com/H4ckethics138/OsintMaster.git
 cd OsintMaster
-pip install -r requirements.txt
-python3 OsintMaster.py
+pip3 install -r requirements.txt
+python3 Main.py
